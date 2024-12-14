@@ -1,6 +1,6 @@
 # VaLiD_LVLMs_hallucinations
 <div align="center">
-Yifei Gao<sup>1</sup>, Jiaqi Wang<sup>1</sup>, Zhiyu Lin<sup>1</sup> and, Jitao Sang*<sup>1,2</sup>
+Yifei Gao<sup>1</sup>, Jiaqi Wang<sup>1</sup> and, Jitao Sang*<sup>1,2</sup>
 </div>
 <div align="center">
 <sup>1</sup>Beijing Jiaotong University    <sup>2</sup>Peng cheng Laboratory
@@ -11,7 +11,7 @@ Yifei Gao<sup>1</sup>, Jiaqi Wang<sup>1</sup>, Zhiyu Lin<sup>1</sup> and, Jitao 
 
 <!-- Arxiv Link, Project Link -->
 <div style='display:flex; gap: 0.25rem; '>
-<a href="https://arxiv.org/abs/2403.08542"><img src="https://img.shields.io/badge/arXiv-2403.08542-b31b1b.svg"></a>
+<a href="https://arxiv.org/abs/2411.15839"><img src="https://img.shields.io/badge/arXiv-2403.08542-b31b1b.svg"></a>
 <a href="https://github.com/LucusFigoGao/AIGCs_Confuse_AI_Too"><img src="https://img.shields.io/badge/Project%20Page-online-brightgreen"></a>
 <a href='LICENSE'><img src='https://img.shields.io/badge/License-MIT-blue.svg'></a>
 </div>

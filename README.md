@@ -12,7 +12,7 @@ Yifei Gao<sup>1</sup>, Jiaqi Wang<sup>1</sup> and, Jitao Sang*<sup>1,2</sup>
 <!-- Arxiv Link, Project Link -->
 <div style='display:flex; gap: 0.25rem; '>
 <a href="https://arxiv.org/abs/2411.15839"><img src="https://img.shields.io/badge/arxiv-2411.15839-red"></a>
-<a href="https://github.com/LucusFigoGao/AIGCs_Confuse_AI_Too"><img src="https://img.shields.io/badge/Project%20Page-online-brightgreen"></a>
+<a href="https://github.com/RicardoLuL/VaLiD_LVLMs_hallucinations"><img src="https://img.shields.io/badge/Project%20Page-online-brightgreen"></a>
 <a href='LICENSE'><img src='https://img.shields.io/badge/License-MIT-blue.svg'></a>
 </div>
 

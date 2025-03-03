@@ -12,7 +12,7 @@ Jiaqi Wang<sup>1</sup>, Yifei Gao<sup>1</sup> and, Jitao Sang*<sup>1,2</sup>
 <!-- Arxiv Link, Project Link -->
 <div style='display:flex; gap: 0.25rem; '>
 <a href="https://arxiv.org/abs/2411.15839"><img src="https://img.shields.io/badge/arXiv-2411.15839-b31b1b.svg"></a>
-<a href="https://github.com/LucusFigoGao"><img src="https://img.shields.io/badge/Project%20Page-online-brightgreen"></a>
+<a href="https://github.com/LucusFigoGao"><img src="https://img.shields.io/badge/Project%20Page-onlink-brightgreen"></a>
 <a href='LICENSE'><img src='https://img.shields.io/badge/License-MIT-blue.svg'></a>
 </div>
 
@@ -22,7 +22,7 @@ This is the official repo for Visual Layer Fusion Contrastive Decoding, a novel 
 
 ## 🔥 Update
 - [2025-03-03] 🚀 Codes released.
-- [2024-11-15] ⭐️ Paper of VaLiD online. Check out [this line](https://arxiv.org/abs/2411.15839) for more details.
+- [2024-11-15] ⭐️ Paper of VaLiD onlink. Check out [this link](https://arxiv.org/abs/2411.15839) for more details.
 
 ## 🎯 Overview
 ![framework](./figure/framework.jpg)

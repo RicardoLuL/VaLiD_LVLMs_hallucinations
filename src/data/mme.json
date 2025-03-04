@@ -1,0 +1,10 @@
+{"question_id": 1, "image": "./MME_Benchmark_release_version/posters/images/tt3824458.jpg", "text": "Is this movie titled tangerine (2015)?", "label": "Yes", "category": "posters"}
+{"question_id": 2, "image": "./MME_Benchmark_release_version/posters/images/tt3824458.jpg", "text": "Is this movie titled miller's crossing (1990)?", "label": "No", "category": "posters"}
+{"question_id": 3, "image": "./MME_Benchmark_release_version/posters/images/tt0063442.jpg", "text": "Is this movie originated from the country or region of usa?", "label": "Yes", "category": "posters"}
+{"question_id": 4, "image": "./MME_Benchmark_release_version/posters/images/tt0063442.jpg", "text": "Is this movie originated from the country or region of japan?", "label": "No", "category": "posters"}
+{"question_id": 5, "image": "./MME_Benchmark_release_version/posters/images/tt0116209.jpg", "text": "Is this movie directed by anthony minghella?", "label": "Yes", "category": "posters"}
+{"question_id": 6, "image": "./MME_Benchmark_release_version/posters/images/tt0116209.jpg", "text": "Is this movie directed by john cassavetes?", "label": "No", "category": "posters"}
+{"question_id": 7, "image": "./MME_Benchmark_release_version/posters/images/tt0167261.jpg", "text": "Is this movie directed by peter jackson?", "label": "Yes", "category": "posters"}
+{"question_id": 8, "image": "./MME_Benchmark_release_version/posters/images/tt0167261.jpg", "text": "Is this movie directed by gabe ib\u00e1\u00f1ez?", "label": "No", "category": "posters"}
+{"question_id": 9, "image": "./MME_Benchmark_release_version/posters/images/tt0113497.jpg", "text": "Is this movie titled jumanji (1995)?", "label": "Yes", "category": "posters"}
+{"question_id": 10, "image": "./MME_Benchmark_release_version/posters/images/tt0113497.jpg", "text": "Is this movie titled morgan (2016)?", "label": "No", "category": "posters"}

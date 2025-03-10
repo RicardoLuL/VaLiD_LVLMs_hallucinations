@@ -1,6 +1,6 @@
 # VaLiD: Mitigating the Hallucination of Large Vision Language Models by Visual Layer Fusion Contrastive Decoding
 <div align="center">
-Jiaqi Wang<sup>1</sup>, Yifei Gao<sup>1</sup> and Jitao Sang*<sup>1,2</sup>
+Jiaqi Wang<sup>1</sup>, Yifei Gao<sup>1</sup> and, Jitao Sang*<sup>1,2</sup>
 </div>
 <div align="center">
 <sup>1</sup>Beijing Jiaotong University    <sup>2</sup>Peng cheng Laboratory
@@ -45,6 +45,7 @@ pip install -r requirements.txt
 *Run codes*
 - Please setup the environment variables in the `run.sh` file.
 ```bash
+cd src
 bash run.sh
 ```
 

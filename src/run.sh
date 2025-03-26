@@ -1,9 +1,9 @@
 #!/bin/bash
 
-GQA_FOLDER="<input your dataset folder>"
-MME_FOLDER="<input your dataset folder>"
-COCO_FOLDER="<input your dataset folder>"
-AMBER_FOLDER="<input your dataset folder>"
+export GQA_FOLDER="<input your dataset folder>"
+export MME_FOLDER="<input your dataset folder>"
+export COCO_FOLDER="<input your dataset folder>"
+export AMBER_FOLDER="<input your dataset folder>"
 
 # run Qwen-VL-7B
 cd VaLiD-Qwen-VL
